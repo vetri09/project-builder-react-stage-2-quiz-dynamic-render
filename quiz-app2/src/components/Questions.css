@@ -1,0 +1,52 @@
+.question-box{
+    background-color: white;
+    padding: 20px 0px;
+    margin: 50px auto;
+    width: 1000px;
+}
+.heading{
+    font-size: 45px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.questions{
+    font-weight: 300;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    width: 750px;
+}
+button{
+    border: none;
+}
+.choices{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.choice{
+    color: white;
+    padding: 10px 20px;
+    margin: 0px 30px 20px 0px;
+    background-color: rgb(71, 168, 248);
+    border-radius: 30px;
+    width: 400px;
+}
+.changes{
+    margin-bottom: 40px;
+}
+.changes button{
+    color: white;
+    margin-right: 20px;
+    padding: 5px 10px;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
